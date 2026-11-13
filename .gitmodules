@@ -1,0 +1,3 @@
+[submodule "vendor/math-sdk"]
+	path = vendor/math-sdk
+	url = https://github.com/StakeEngine/math-sdk.git

@@ -1,0 +1,11 @@
+# SDK output (books, lookup tables, configs) and simulated datasets: regenerate them
+output/
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/

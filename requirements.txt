@@ -1,0 +1,11 @@
+# Simulation engine
+numpy>=2.0
+zstandard>=0.22
+
+# Tests
+pytest>=8.0
+
+# Analysis notebook
+pandas>=2.2
+matplotlib>=3.9
+jupyter
